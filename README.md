@@ -1,5 +1,5 @@
 # social-media
-repo for our social media - containing both an app (react) and an api (express + node + mongo)
+repo for our social media application - containing both an app (react) and an api (express + node + mongo)
 
 The repo contains two directories, one for the react app and one for the express api.
 
